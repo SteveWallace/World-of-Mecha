@@ -1,6 +1,13 @@
 #World of Mecha
 ####A game by Steve Wallace
 
+###Building your Mech
+Mechs have 3 mech stats and 3 pilot stats
+Power, Speed, Metal
+Physical, Social, Intellect
+
+
+
 World of Mecha (c) by Steve Wallace
 
 World of Mecha is licensed under a
